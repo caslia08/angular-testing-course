@@ -133,7 +133,6 @@ describe('CoursesService', () => {
 
         httpTestingController.verify();
 
-
     });
 
 
